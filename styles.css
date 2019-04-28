@@ -1,7 +1,6 @@
 body {
   padding-bottom: 50vh;
   text-align: center;
-  line-height: 1.25em;
   font-size: 20px;
   letter-spacing: 1px;
   color: white;
@@ -9,13 +8,23 @@ body {
   background: transparent url('img/stars.gif');
 }
 
+p {
+  text-align: left;
+  line-height: 1.25em;
+}
+
+.instructions {
+  text-align: center;
+  font-size: 0.6em;
+}
+
 #main {
   width: 720px;
   margin: 0 auto;
 }
 
-p {
-  text-align: left;
+#showtime {
+  margin-bottom: 0;
 }
 
 #mediaCase {
@@ -35,8 +44,10 @@ p {
   display: none;
 }
 
-#castInstructions {
-  text-align: center;
-  font-size: 0.6em;
+@media (max-width: 719px) {
+  #main {
+    width: 100%;
+  }
 }
+
 
