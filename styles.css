@@ -30,7 +30,8 @@ p {
   cursor: pointer;
 }
 
-#showtime {
+#showtime,
+#previousTitle {
   margin-bottom: 0;
 }
 
