@@ -2,6 +2,7 @@ const movieData = [
   {
     "showingDate": "2019-05-06T19:00:00",
     "imdb": "tt0103621",
+    "rating": "PG",
     "runningTime": 90,
     "commentary": "This is a movie I used to rent with a fury, never realizing how esoteric it was. I never actually owned a copy until a couple years ago when I started looking for it again. This German DVD is the only DVD I could find, but thankfully it has an English audio track. Its super cheesy and super nostalgic. Should be a really fun watch.",
     "title": "Adventures in Dinosaur City",
@@ -20,6 +21,7 @@ const movieData = [
   {
     "showingDate": "2019-04-29T19:00:00",
     "imdb": "tt0387129",
+    "rating": "NR",
     "runningTime": 85,
     "commentary": "The best way I can describe this movie is \"a Christian musical action-drama\". It is probably one of the worst movies I have ever seen, and trust me, I have watched a lot of bad movies. Its bound to make us suffer together, but that is kind of the point of the movie night.",
     "title": "Commander Kellie and the Superkids: The Sword",

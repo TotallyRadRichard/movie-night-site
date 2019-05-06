@@ -6,6 +6,7 @@ const elms = {
   imdbLink: document.getElementById('imdb'),
   caseImages: document.getElementById('mediaCase'),
   runningTime: document.getElementById('runningTime'),
+  rating: document.getElementById('rating'),
   commentary: document.getElementById('commentary'),
   description: document.getElementById('description'),
   previousMovies: document.getElementById('previous')
@@ -37,6 +38,7 @@ const load = function(movieIndex) {
   elms.movieTitle.innerHTML = movie.title;
   elms.imdbLink.href = 'https://www.imdb.com/title/' + movie.imdb;
   elms.runningTime.innerHTML = movie.runningTime;
+  elms.rating.innerHTML = movie.rating;
   elms.commentary.innerHTML = movie.commentary;
 
   movie.backText.forEach(p => {
