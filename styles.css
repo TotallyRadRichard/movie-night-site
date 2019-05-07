@@ -35,6 +35,10 @@ p {
   margin-bottom: 0;
 }
 
+#showtime {
+  line-height: 1.5em;
+}
+
 #mediaCase {
   width: 100%;
   height: 500px;

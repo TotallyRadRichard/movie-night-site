@@ -1,5 +1,24 @@
 const movieData = [
   {
+    "showingDate": "2019-05-13T19:00:00",
+    "imdb": "tt0102800",
+    "rating": "PG",
+    "runningTime": 85,
+    "commentary": "Robot Jox is a classic mecha romp from 1989. I have watched it many, many times and it is always a mix of awesome and cheese. Don’t expect great acting, but do expect memorable stop-motion mecha fights.",
+    "title": "Robot Jox",
+    "backText": [
+      "Directed by Stuart Gordon (RE-Animator), ROBOTJOX reveals a world where nations settle their territorial disputes by a single combat match between two giant machines. Piloted by national heroes  Achilles (Gary Graham, TV’s Alien Nation) and Alexander (Paul Koslo, Shadowchaser), the robots meet in Death Valley to fight for the greatest prize of all: Alaska. But when Achilles’ machine crushes 300 spectators, the match ends in a draw. Refusing to face Alexander in a rematch, Achilles is replaced by Athena (Anne-Marie Johnson, TV’s Melrose Place), a genetically engineered combat fighter. So When the GenJox is nearly killed and the game is forfeited, Achilles avenges their honor by challenging Alexander to a winner-take-all death match, in this heavy-metal, sci-fi adventure.",
+    ],
+    "format": "DVD",
+    "imagesLocation": "img/robot_jox",
+    "images": [
+      "front.jpg",
+      "right.jpg",
+      "back.jpg",
+      "left.jpg"
+    ]
+  },
+  {
     "showingDate": "2019-05-06T19:00:00",
     "imdb": "tt0103621",
     "rating": "PG",

@@ -34,7 +34,8 @@ const load = function(movieIndex) {
 
   const movie = movieData[movieIndex];
 
-  elms.showtime.innerHTML = moment(movie.showingDate).local().calendar();
+  elms.showtime.innerHTML = moment(movie.showingDate).local().format('dddd, MMMM Do, YYYY[<br/>] LT');
+
   elms.movieTitle.innerHTML = movie.title;
   elms.imdbLink.href = 'https://www.imdb.com/title/' + movie.imdb;
   elms.runningTime.innerHTML = movie.runningTime;
