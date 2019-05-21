@@ -1,5 +1,24 @@
 const movieData = [
   {
+    "showingDate": "2019-05-20T19:00:00",
+    "imdb": "tt0117420",
+    "rating": "PG-13",
+    "runningTime": 95,
+    "commentary": "This is one of my favorite martial arts movies, even in the realm of Van Damme flicks. It's a little less campy but still quite ridiculous. Think of The Quest as a mix of Mortal Kombat with classic Van Damme action. And yes, there are splits.",
+    "title": "The Quest",
+    "backText": [
+      "One man's search for his soul leads him on the ultimate journey. Acclaimed action supertar JEAN-CLAUDE VAN DAMME directs and stars in The Quest, an exotic odyssey that takes him from the slums of 1920's New York to the mysterious Lost City of Tibet. Van Damme stars as Christopher Dubois, a street criminal whose run from the police thrusts him into a forbidding realm of gun smugglers, pirates and an ancient, underworld martial arts competition. The legendary contest, known as the Ghan-gheng, pits the world's deadliest figures against each other in a furious winner-take-all battle. Forced to compete, Christopher faces the ultimate test of manhood where one wrong move could cost him not only the competition but his life. This spectacular adventure holds audiences captive with its ancient mystery, stunning scenery and thrilling action.",
+    ],
+    "format": "Blu-ray",
+    "imagesLocation": "img/the_quest",
+    "images": [
+      "front.png",
+      "right.jpg",
+      "back.png",
+      "left.png"
+    ]
+  },
+  {
     "showingDate": "2019-05-13T19:00:00",
     "imdb": "tt0102800",
     "rating": "PG",
