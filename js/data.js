@@ -1,5 +1,24 @@
 const movieData = [
   {
+    "showingDate": "2019-05-28T19:00:00",
+    "imdb": "tt0103003",
+    "rating": "PG",
+    "runningTime": 90,
+    "commentary": "I was never a fan of wrestling, but if you grew up in the 90s you knew who Hulk Hogan was. This flick has everything I love in a nostalgic movie. Sci-fi, puns, bad acting, and even a mullet. There is no denying this is a product of the early 90s.",
+    "title": "Suburban Commando",
+    "backText": [
+      "Hulk Hogan leads an all-star cast including Christopher Lloyd (Back to the Future, The Addams Family) and Shelley Duvall (Popeye, Roxanne) on a hilarious and high-spirited action comedy adventure. Stranded on Earth, a lone galactic warrior (Hogan) attempts to adapt to neighborhood life--with results that truly alienate his neighbors. But when his evil nemesis tracks him across the universe to his backyeard bungalow, he must rally all the Earthling help he can to repel the nefarious invader!",
+    ],
+    "format": "DVD",
+    "imagesLocation": "img/sub_commando",
+    "images": [
+      "front.png",
+      "right.png",
+      "back.png",
+      "left.png"
+    ]
+  },
+  {
     "showingDate": "2019-05-20T19:00:00",
     "imdb": "tt0117420",
     "rating": "PG-13",
