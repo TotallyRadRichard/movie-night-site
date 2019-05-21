@@ -31,12 +31,18 @@ p {
 }
 
 #showtime,
-#previousTitle {
+#previousTitle,
+#titleHeader {
   margin-bottom: 0;
 }
 
 #showtime {
   line-height: 1.5em;
+}
+
+#showTimeInstructions,
+#titleInfo {
+  margin-top: 0;
 }
 
 #mediaCase {
