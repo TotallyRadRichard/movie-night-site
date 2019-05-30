@@ -1,5 +1,24 @@
 const movieData = [
   {
+    "showingDate": "2019-06-04T19:00:00",
+    "imdb": "tt0099512",
+    "rating": "PG",
+    "runningTime": 81,
+    "commentary": "Jim Varney as Ernest is as iconic to me as Schwarzenegger playing the terminator. I have seen pretty much all the Ernest movies and love every one. The physical humor mixed with the endearing characters always make for a lovable film. They  aren’t high budget or have deep themes, but they will always be on my shelf.",
+    "title": "Ernest Goes to Jail",
+    "backText": [
+      "Bank janitor Ernest P. Worrell is called to jury duty and soon finds himself in trouble when the lookalike defendant’s attorney arranges a switch and has Ernest sent to prison in his client’s place. While Ernest struggles to deal with prison life, his criminal double decides to use Ernest’s job at the bank as an opportunity to rob it. Will Ernest be able to break out of prison in time to stop the robbery and expose the mix-up?",
+    ],
+    "format": "DVD",
+    "imagesLocation": "img/ernest_triple",
+    "images": [
+      "front.png",
+      "right.png",
+      "back.png",
+      "left.png"
+    ]
+  },
+  {
     "showingDate": "2019-05-28T19:00:00",
     "imdb": "tt0103003",
     "rating": "PG",
