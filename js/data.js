@@ -1,6 +1,6 @@
 const movieData = [
   {
-    "showingDate": "2019-06-04T19:00:00",
+    "showingDate": "2019-06-11T19:00:00",
     "imdb": "tt0099512",
     "rating": "PG",
     "runningTime": 81,
